@@ -18,7 +18,7 @@ RomSet : *eXoDOS 6.0 r2*
 :fr: Un jeu ne se lance pas ?   
 Faites un signalement ou contactez-moi sur le discord de Recalbox en me taguant @bounitos. 
 https://discord.com/invite/NbQFbGM
-Traduction:
+
 :gb: A game won't start?   
 Create an issue or let me know on the Recalbox Discord by tagging @bounitos. 
 https://discord.com/invite/NbQFbGM
