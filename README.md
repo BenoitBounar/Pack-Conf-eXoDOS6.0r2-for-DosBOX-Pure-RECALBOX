@@ -2,28 +2,34 @@
 # Configuration Pack for DOSBox Pure with pack eXoDOS6.0r2 and eXoWIN3x  for RECALBOX 
 
 **:fr:**  
-Pack de fichiers de configuration pour lancer automatiquement les jeux DOS issus du set eXoDOS 6.0r2 sur DOSBox Pure.  
+Pack de fichiers de configuration pour le lancement automatique des jeux DOS issus des collections eXoDOS 6.0r2 et eXoWIN3x, optimisés pour DOSBox Pure.
 
 **:gb:**   
-Configuration file pack for automatically launching DOS games from the eXoDOS 6.0r2 set on DOSBox Pure.
+Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 and eXoWIN3x sets, optimized for DOSBox Pure.
 
 ## Installation
  **:fr:** 
 
  1. Copiez le fichier ***.core.cgf*** dans votre dossier (*/roms/dos*/)
- 2. Copiez les fichiers ***.conf***  dans le dossier ou se trouve vos roms .zip (ex: */roms/dos/* , */roms/dos/exodos)*
+ 2. Copiez les fichiers ***.conf***  directement dans le dossier ou se trouve vos roms .zip (ex: */roms/dos/* , */roms/dos/exodos)*  
+
+
+ *Vous devez donc vous retrouvez avec un fichier JEU.zip et un fichier JEU.conf, portant exactement les meme noms*
 
 **:gb:** 
 
  1. Copy the ***.core.cgf*** file into your folder (/roms/dos/)  
- 2. Copy the ***.conf*** files into the folder where your .zip roms are located (e.g., */roms/dos/*, */roms/dos/exodos*)
+ 2. Copy the ***.conf*** files into the folder where your .zip roms are located (e.g., */roms/dos/*, */roms/dos/exodos*)  
+  *You should end up with a **GAME.zip** file and a **GAME.conf** file, both having exactly the same name.*
+  
 
 
 ## Compatibilité / Compatibility
 
 > **Recalbox 9.2.3 +**   
->  Core : *DOSBox Pure*   
->  RomSet : *eXoDOS 6.0 r2*
+>  Core : ***DOSBox Pure***   
+>  RomSet DOS : ***eXoDOS 6.0 r2***   
+>  RomSet Win3.0 : ***eXoWin3x***
 
 
 ## Report
@@ -35,10 +41,14 @@ Configuration file pack for automatically launching DOS games from the eXoDOS 6.
 ### :gb: Game won't start? ?   
 
 > Create an **issue** or let me know on the Recalbox Discord by tagging
-> **@bounitos**.  https://discord.com/invite/NbQFbGM
+> **@bounitos** or **@toniosj**.  https://discord.com/invite/NbQFbGM
 
 
 ## Changelog
+
+> Version 1.3 :
+
+    - Fix problem mount to C
 
 > Version 1.2 :
 
@@ -49,4 +59,5 @@ Configuration file pack for automatically launching DOS games from the eXoDOS 6.
     - ISO mount : Convertion name to MSDOS 8:3
 
 ## Credits
-  Thanks to [@Tonios](https://github.com/toniosj) and [@Pit64](https://github.com/Pitchoune) their help and tests.
+Pack by   [@Bounitos](https://github.com/BenoitBounar) and  [@Tonios](https://github.com/toniosj)  
+  Thanks to  [@Pit64](https://github.com/Pitchoune) their help and tests.
