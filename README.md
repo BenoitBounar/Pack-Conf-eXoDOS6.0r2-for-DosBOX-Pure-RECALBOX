@@ -10,7 +10,7 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 ## Installation
  **:fr:** 
 
- 1. Copiez le fichier ***.core.cgf*** dans votre dossier (*/roms/dos*/)
+ 1. Copiez le fichier ***.core.cfg*** dans votre dossier (*/roms/dos*/)
  2. Copiez les fichiers ***.conf***  directement dans le dossier ou se trouve vos roms .zip (ex: */roms/dos/* , */roms/dos/exodos)*  
 
 
@@ -18,7 +18,7 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 
 **:gb:** 
 
- 1. Copy the ***.core.cgf*** file into your folder (/roms/dos/)  
+ 1. Copy the ***.core.cfg*** file into your folder (/roms/dos/)  
  2. Copy the ***.conf*** files into the folder where your .zip roms are located (e.g., */roms/dos/*, */roms/dos/exodos*)  
   *You should end up with a **GAME.zip** file and a **GAME.conf** file, both having exactly the same name.*
   
@@ -46,6 +46,11 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 
 ## Changelog
 
+
+> Version 1.5 :
+
+    - Fix JEMMEX for 4 games
+    
 > Version 1.4 :
 
     - Fix many problem mount multidisc, multi floppy
@@ -64,5 +69,5 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
     - ISO mount : Convertion name to MSDOS 8:3
 
 ## Credits
-Pack by   [@Bounitos](https://github.com/BenoitBounar) and  [@Tonios](https://github.com/toniosj)  
-  Thanks to  [@Pit64](https://github.com/Pitchoune) their help and tests.
+Pack by [@Bounitos](https://github.com/BenoitBounar) and  [@Toniosj](https://github.com/toniosj)   
+Thanks to [@Yonailo](https://github.com/yonailo) and [@Pit64](https://github.com/Pitchoune) their help, tests and fix.
