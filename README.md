@@ -46,6 +46,11 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 
 ## Changelog
 
+> Version 1.4 :
+
+    - Fix many problem mount multidisc, multi floppy
+    - Fix multi games
+    
 > Version 1.3 :
 
     - Fix problem mount to C
