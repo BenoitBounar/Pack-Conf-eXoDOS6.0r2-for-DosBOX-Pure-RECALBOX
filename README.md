@@ -50,6 +50,7 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 > Version 1.5 :
 
     - Fix JEMMEX for 4 games
+    - Fix multi-disk mount path for 52 games
     
 > Version 1.4 :
 
