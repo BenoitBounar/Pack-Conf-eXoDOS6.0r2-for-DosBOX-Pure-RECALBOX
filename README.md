@@ -47,6 +47,9 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 ## Changelog
 
 
+> Version 1.6 :
+    - Fix 32 games
+    
 > Version 1.5 :
 
     - Add Help documentation
