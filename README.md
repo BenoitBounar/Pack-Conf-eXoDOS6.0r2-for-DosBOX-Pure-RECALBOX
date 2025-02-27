@@ -2,27 +2,10 @@
 # Configuration Pack for DOSBox Pure with pack eXoDOS6.0r2 and eXoWIN3x  for RECALBOX 
 
 **:fr:**  
-Pack de fichiers de configuration pour le lancement automatique des jeux DOS issus des collections eXoDOS 6.0r2 et eXoWIN3x, optimisés pour DOSBox Pure.
+> Pack de fichiers de configuration pour le lancement automatique des jeux DOS issus des collections eXoDOS 6.0r2 et eXoWIN3x, optimisés pour DOSBox Pure.
 
 **:gb:**   
-Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 and eXoWIN3x sets, optimized for DOSBox Pure.
-
-## Installation
- **:fr:** 
-
- 1. Copiez le fichier ***.core.cfg*** dans votre dossier (*/roms/dos*/)
- 2. Copiez les fichiers ***.conf***  directement dans le dossier ou se trouve vos roms .zip (ex: */roms/dos/* , */roms/dos/exodos)*  
-
-
- *Vous devez donc vous retrouvez avec un fichier JEU.zip et un fichier JEU.conf, portant exactement les meme noms*
-
-**:gb:** 
-
- 1. Copy the ***.core.cfg*** file into your folder (/roms/dos/)  
- 2. Copy the ***.conf*** files into the folder where your .zip roms are located (e.g., */roms/dos/*, */roms/dos/exodos*)  
-  *You should end up with a **GAME.zip** file and a **GAME.conf** file, both having exactly the same name.*
-  
-
+> Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 and eXoWIN3x sets, optimized for DOSBox Pure.
 
 ## Compatibilité / Compatibility
 
@@ -32,21 +15,44 @@ Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 an
 >  RomSet Win3.0 : ***eXoWin3x***
 
 
-## Report
-### :fr: Un jeu ne se lance pas ?   
+## Installation
+ **:fr:** 
+>  1. Copiez le fichier ***.core.cfg*** dans votre dossier (*/roms/dos*/)
+>  2. Copiez les fichiers ***.conf***  directement dans le dossier ou se trouve vos roms .zip (ex: */roms/dos/* , */roms/dos/exodos)*  
+> 
+>  *Vous devez donc vous retrouvez avec un fichier JEU.zip et un fichier JEU.conf, portant exactement les meme noms*
 
-> Faites une **issue** ou contactez-moi sur le discord de Recalbox en me
-> taguant **@bounitos**.  https://discord.com/invite/NbQFbGM
+**:gb:** 
+>  1. Copy the ***.core.cfg*** file into your folder (/roms/dos/)  
+>  2. Copy the ***.conf*** files into the folder where your .zip roms are located (e.g., */roms/dos/*, */roms/dos/exodos*)  
+>   *You should end up with a **GAME.zip** file and a **GAME.conf** file, both having exactly the same name.*
+  
 
-### :gb: Game won't start? ?   
+## Aide / Help  
+**:fr:** 
+>  Un fichier **aide.rtf** est disponible dans le pack, et contient un ensemble d'informations pour vous aider à utiliser DosBOX Pure  
+>
+> **Un jeu ne se lance pas ?**   
+> Faites une **issue** ou contactez-moi sur le discord de Recalbox en me taguant **@bounitos**.  https://discord.com/invite/NbQFbGM
 
-> Create an **issue** or let me know on the Recalbox Discord by tagging
-> **@bounitos** or **@toniosj**.  https://discord.com/invite/NbQFbGM
+
+**:gb:** 
+>  A **help.rtf** file is available in the pack, and contains a set of information to help you use DosBOX Pure
+>
+> **Game won't start? ?**
+>  Create an **issue** or let me know on the Recalbox Discord by tagging **@bounitos** or **@toniosj**.  https://discord.com/invite/NbQFbGM
 
 
+  
+    
+  
 ## Changelog
 
 
+> Version 1.6 :
+
+    - Fix 32 games
+    
 > Version 1.5 :
 
     - Add Help documentation
