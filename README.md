@@ -2,10 +2,10 @@
 # Configuration Pack for DOSBox Pure with pack eXoDOS6.0r2 and eXoWIN3x  for RECALBOX 
 
 **:fr:**  
-> Pack de fichiers de configuration pour le lancement automatique des jeux DOS issus des collections eXoDOS 6.0r2 et eXoWIN3x, optimisés pour DOSBox Pure.
+> Pack clé en main de fichiers de configuration optimisés pour **DOSBox Pure**, conçu pour simplifier le lancement des jeux **eXoDOS 6.0r2 et eXoWIN3x**. Il automatise le démarrage, réduit les manipulations et permet de profiter des jeux DOS en toute simplicité !
 
 **:gb:**   
-> Configuration pack for automatic launching of DOS games from the eXoDOS 6.0r2 and eXoWIN3x sets, optimized for DOSBox Pure.
+> Turnkey configuration pack optimized for **OSBox Pure**, designed to simplify the launch of **eXoDOS 6.0r2** and **eXoWIN3x** games. It automates startup, reduces manual steps, and lets you enjoy DOS games with ease!
 
 ## Compatibilité / Compatibility
 
@@ -49,6 +49,13 @@
 ## Changelog
 
 
+> Version 1.7 :
+
+    - Update documentation (aide/help.rtf)
+    - Added echo instruction for disk change
+    - Some Fix for ExoWin3x games (multidisk path, 8.3 dos format for some images)
+    - Fix for MDK game - ExoDos
+    
 > Version 1.6 :
 
     - Fix 32 games
