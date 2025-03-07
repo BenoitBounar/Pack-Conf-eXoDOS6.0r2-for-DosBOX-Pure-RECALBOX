@@ -9,7 +9,7 @@
 
 ## Compatibilité / Compatibility
 
-> **Recalbox 9.2.3 +**   
+> **Recalbox 10+**   
 >  Core : ***DOSBox Pure***   
 >  RomSet DOS : ***eXoDOS 6.0 r2***   
 >  RomSet Win3.0 : ***eXoWin3x***
