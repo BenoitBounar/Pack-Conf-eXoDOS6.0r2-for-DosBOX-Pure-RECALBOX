@@ -48,6 +48,15 @@
   
 ## Changelog
 
+> Version 1.9 :
+
+    - Add 3 games ExoWin3x + 19 games ExoWin3x
+    - Fix 3 games eXoDos +  10 ExoWin3x
+
+
+> Version 1.8 :
+
+    - 2 games Fix- ExoDos
 
 > Version 1.7 :
 
@@ -85,5 +94,6 @@
     - ISO mount : Convertion name to MSDOS 8:3
 
 ## Credits
-Pack by [@Bounitos](https://github.com/BenoitBounar) and  [@Toniosj](https://github.com/toniosj)   
+Pack by [@Bounitos](https://github.com/BenoitBounar) 
+Contributors : [@Toniosj](https://github.com/toniosj) - [@Growlfy](https://github.com/Growlfy) 
 Thanks to [@Yonailo](https://github.com/yonailo) and [@Pit64](https://github.com/Pitchoune) their help, tests and fix.
